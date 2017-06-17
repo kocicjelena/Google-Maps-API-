@@ -1,0 +1,27 @@
+{
+  "name": "service_google_maps_api",
+  "version": "1.0.0",
+  "description": "web app using google places api",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kocicjelena/Google-Maps-API-.git"
+  },
+  "keywords": [
+    "google",
+    "places",
+    "api"
+  ],
+  "author": "Jelena Kocic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kocicjelena/Google-Maps-API-/issues"
+  },
+  "homepage": "https://github.com/kocicjelena/Google-Maps-API-#readme",
+  "dependencies": {
+    "@google/maps": "^0.4.1"
+  }
+}
